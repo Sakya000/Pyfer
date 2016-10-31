@@ -5,6 +5,10 @@
 -[文档类](#文档类)
 
 -[代码类](#代码类)
+ - [搜索控制器](#搜索控制器)
+ - [UI](#UI)
+
+
  - [视频类](#视频类)
    - [视频播放](#视频播放)
    - [视频直播](#视频直播)
@@ -51,6 +55,16 @@
 
 
 #####代码类
+
+##### 搜索控制器
+* [PYSearch](https://github.com/iphone5solo/PYSearch) - 一款综合（QQ 音乐、微信、美团、优酷、虎牙直播等多款 app）风格的搜索控制器。
+
+##### UI
+* [无限图片轮播](https://github.com/1271284056/Unlimited-images-player) - 无限图片轮播demo
+* [瀑布流 ](https://github.com/1271284056/Waterfall-flow) - 瀑布流 [简书地址 ](http://www.jianshu.com/p/03b57f0cf342)
+
+
+
 ##### 视频类
 
 ##### 视频播放
