@@ -75,6 +75,10 @@
 ##### 视频直播
 * [MyShowDemo](https://github.com/zhangguosen3033/MyShowDemo) - iOS动手做一个直播(原理篇)。 [简书地址](http://www.jianshu.com/p/73f1d8bc38cb) ......[详解简书地址](http://www.jianshu.com/p/7b69d41f3495)
 
+* [高仿<喵播APP>](http://www.jianshu.com/p/b8db6c142aad) - 视频直播，可以分为 采集，前处理，编码，传输, 服务器处理，解码，渲染
+
+
+
 
 ##### 数据安全
 
